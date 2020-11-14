@@ -19,7 +19,7 @@ class User {
 
 
 function showMeTheMoneyFunc() {
-  alert("Dinero del usuario: " + this.money);
+  alert("El usuario tiene " + this.money + "€");
 }
 
 
